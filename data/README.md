@@ -1,7 +1,12 @@
-## Kaggle > Video Game Sales
+## Kaggle Datasets
+
+### Dataset: Video Game Sales
 https://www.kaggle.com/gregorut/videogamesales
 
-### Using Conda for Jupyter Notebook on Chromebook Linux
+### Dataset: Video Game Sales with Ratings
+https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+
+#### Using Conda for Jupyter Notebook on Chromebook Linux
 Install Instructions
 https://alex.miller.im/posts/data-science-chromebook-pixelbook-jupyter-python-r/
 
