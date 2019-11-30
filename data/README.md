@@ -23,6 +23,7 @@ Installing Jupyter
 <code>
 conda install jupyter
 jupyter notebook --generate-config
+conda install numpy matplotlib pandas
 </code>
 
 Launch
